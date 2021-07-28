@@ -1,12 +1,11 @@
 ﻿
-# Uso de Redes Neurais Convolucionais para Detecção de Emissões Fugitivas a partir de imagens
+# Uso de Redes Neurais Convolucionais para Detecção de Emissões Fugitivas a Partir de Imagens
 
-#### Aluno: [LucianaNeves Loureiro](https://github.com/lunevesloureiro)
+#### Aluno: [Luciana Neves Loureiro](https://github.com/lunevesloureiro)
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler)
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-<MonografiaFINAL.ipynb>
 ---
 
 ### Resumo
@@ -22,7 +21,7 @@ The adopted image database was obtained through monitoring campaigns carried out
 
 ---
 
-Matrícula: 123.456.789
+Matrícula: 192.190.079
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
